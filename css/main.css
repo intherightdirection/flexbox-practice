@@ -141,14 +141,7 @@ h1 {
   line-height: 1.5em;
   font-size: 1.2em;
   border-bottom: 1px solid #555;
-  height: 100%;
 }
-
-div p {
-  height: 100%
-}
-
-
 
 footer {
   border-top: .3em solid #727273;
