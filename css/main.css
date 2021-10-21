@@ -143,6 +143,7 @@ h1 {
 }
 
 footer {
+  display: flex;
   border-top: .3em solid #727273;
 }
 
