@@ -144,6 +144,7 @@ h1 {
 
 footer {
   display: flex;
+  flex-basis: 100%;
   border-top: .3em solid #727273;
 }
 
